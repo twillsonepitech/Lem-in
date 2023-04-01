@@ -9,7 +9,7 @@ CC	?=	gcc
 
 RM	?=	rm -rf
 
-NAME	=	lemin
+NAME	=	lem_in
 
 ARCHIVER	=	ar
 
